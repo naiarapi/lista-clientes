@@ -1,2 +1,2 @@
 # lista-clientes
-Created with CodeSandbox
+Aplicacion funcional con un formulario para agregar, eliminar clientes
